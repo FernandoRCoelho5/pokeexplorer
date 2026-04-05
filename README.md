@@ -25,13 +25,16 @@ Siga os passos abaixo para clonar e rodar a aplicação na sua máquina:
    git clone [https://github.com/FernandoRCoelho5/pokeexplorer.git](https://github.com/FernandoRCoelho5/pokeexplorer.git)
 
 2. **Acesse a pasta do projeto**
-    cd pokeexplorer
+   ```bash
+   cd pokeexplorer
 
-3. **Instale as Dependências**
+4. **Instale as Dependências**
+   ```bash
     npm install
 
-4. **Inicie o servidor de desenvolvimento**
+5. **Inicie o servidor de desenvolvimento**
+   ```bash
     npm run dev
 
-5. **Acesse a Aplicação**
+6. **Acesse a Aplicação**
     Acesse http://localhost:3000 no navegador
